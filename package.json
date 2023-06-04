@@ -1,0 +1,8 @@
+{
+  "name": "prismjs-terminal-issue",
+  "version": "0.0.0",
+  "scripts": {},
+  "devDependencies": {
+    "prismjs-terminal": "latest"
+  }
+}
